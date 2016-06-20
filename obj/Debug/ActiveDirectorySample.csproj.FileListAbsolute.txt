@@ -1,0 +1,7 @@
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\bin\Debug\ActiveDirectorySample.dll
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\bin\Debug\ActiveDirectorySample.pdb
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\bin\Debug\AD.dll
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\bin\Debug\AD.pdb
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\obj\Debug\ActiveDirectorySample.csprojResolveAssemblyReference.cache
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\obj\Debug\ActiveDirectorySample.dll
+C:\Users\SPCMSDEV\Desktop\ActiveDirectorySample\ActiveDirectorySample\obj\Debug\ActiveDirectorySample.pdb

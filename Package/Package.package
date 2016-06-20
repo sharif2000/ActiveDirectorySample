@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6be77c82-d133-4631-9bd6-18e5bc8aa6e5" 
+        solutionId="6be77c82-d133-4631-9bd6-18e5bc8aa6e5" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ActiveDirectorySample"
+        sharePointProductVersion="15.0">
+</package>
